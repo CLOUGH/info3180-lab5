@@ -21,6 +21,8 @@ import admin
 import auth
 import user
 
+import contact
+
 
 if config.DEVELOPMENT:
   from werkzeug import debug
